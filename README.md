@@ -40,3 +40,8 @@
 
 # My Projects
 - [Aura Bot](https://github.com/RealYuri001/Aura-Bot)
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img alt="HF1016's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HF1016&theme=github-dark"/>
+</p>
